@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactProjects/storage-app/build/static/css/main.2faf3c84.chunk.css",
+    "main.js": "/ReactProjects/storage-app/build/static/js/main.000a6f01.chunk.js",
+    "main.js.map": "/ReactProjects/storage-app/build/static/js/main.000a6f01.chunk.js.map",
+    "runtime-main.js": "/ReactProjects/storage-app/build/static/js/runtime-main.05f0a737.js",
+    "runtime-main.js.map": "/ReactProjects/storage-app/build/static/js/runtime-main.05f0a737.js.map",
+    "static/js/2.b453dd33.chunk.js": "/ReactProjects/storage-app/build/static/js/2.b453dd33.chunk.js",
+    "static/js/2.b453dd33.chunk.js.map": "/ReactProjects/storage-app/build/static/js/2.b453dd33.chunk.js.map",
+    "index.html": "/ReactProjects/storage-app/build/index.html",
+    "precache-manifest.466712e009b358b3d2cfd5c97fa38293.js": "/ReactProjects/storage-app/build/precache-manifest.466712e009b358b3d2cfd5c97fa38293.js",
+    "service-worker.js": "/ReactProjects/storage-app/build/service-worker.js",
+    "static/css/main.2faf3c84.chunk.css.map": "/ReactProjects/storage-app/build/static/css/main.2faf3c84.chunk.css.map",
+    "static/js/2.b453dd33.chunk.js.LICENSE.txt": "/ReactProjects/storage-app/build/static/js/2.b453dd33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f0a737.js",
+    "static/js/2.b453dd33.chunk.js",
+    "static/css/main.2faf3c84.chunk.css",
+    "static/js/main.000a6f01.chunk.js"
+  ]
+}
